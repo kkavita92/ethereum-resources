@@ -19,7 +19,7 @@
 
 ## Ethereum
 
-* [History of Ethereum]https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream/
+* [History of Ethereum](https://blog.ethereum.org/2016/02/09/cut-and-try-building-a-dream)
 
 ## Voting Systems
 * [Simple voting system with Ethereum](https://github.com/AdrianClv/ethereum-voting)
