@@ -25,6 +25,13 @@
 * [What are smart contracts](http://blockgeeks.com/guides/smart-contracts-the-blockchain-technology-that-will-replace-lawyers/)
 * [Condition Orientated Progrgramming](https://medium.com/@gavofyork/condition-orientated-programming-969f6ba0161a)
 * [Ethereum Solidity](https://solidity.readthedocs.io/en/develop/)
+* [Getting started with Ethereum as a Web Developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
+* [Ethereum Reddit Community](https://www.reddit.com/r/ethereum/)
+* [Building a smart contract using the command line](https://www.ethereum.org/greeter)
+* [Step by Step to starting with Ethereum Mist wallet](https://medium.com/@attores/step-by-step-guide-getting-started-with-ethereum-mist-wallet-772a3cc99af4)
+* [Getting started with Ethereum in 2017](https://greycoder.com/getting-started-ethereum-2017/)
+* [Ethereum Guide Gitbook](https://gavofyork.gitbooks.io/turboethereum/content/getting_started.html)
+* [Ethereum Mining Video Guide](https://99bitcoins.com/guide-ethereum-mining-how-to-mine-ethereum/)
 
 ## Voting Systems
 * [Simple voting system with Ethereum](https://github.com/AdrianClv/ethereum-voting)
