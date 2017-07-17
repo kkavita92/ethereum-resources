@@ -37,13 +37,8 @@
 
 ## Voting Systems
 * [Simple voting system with Ethereum](https://github.com/AdrianClv/ethereum-voting)
-<<<<<<< HEAD
 * [Another simple voting system with Ethereum - without authentication + with Meteor interface](https://github.com/domschiener/publicvotes)
 * [Blog about voting system above](https://medium.com/@DomSchiener/publicvotes-ethereum-based-voting-application-3b691488b926)
-=======
-* [Another simple voting system with Ethereum - without authentication](https://github.com/domschiener/publicvotes)
-* [Ethereum based voting application](https://medium.com/@DomSchiener/publicvotes-ethereum-based-voting-application-3b691488b926)
->>>>>>> 87ecfbbc5e3f502858be7bc56e2a360ae0ed0d88
 
 ## Unit Testing
 * [Truffle Documentation](http://truffleframework.com/docs/getting_started/console)
